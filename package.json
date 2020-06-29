@@ -1,0 +1,24 @@
+{
+  "name": "CATBEE",
+  "version": "1.0.0",
+  "description": "git 테스트 utf-8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunhejo/CATBEE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunhejo/CATBEE/issues"
+  },
+  "homepage": "https://github.com/kunhejo/CATBEE#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jquery-ui": "^1.12.1"
+  }
+}
